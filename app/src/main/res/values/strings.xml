@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarRecycleView</string>
+    <string name="belajar_recycle_view">Belajar Recycle View</string>
+    <string name="todo">TODO</string>
+</resources>
